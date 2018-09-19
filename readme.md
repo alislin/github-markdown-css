@@ -1,3 +1,5 @@
+# 改进方式
+默认 Markdown 文档直接生成的 Html ，可直接使用 github-markdown-body.css
 # github-markdown-css
 
 > The minimal amount of CSS to replicate the GitHub Markdown style
