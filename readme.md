@@ -1,5 +1,12 @@
 # 改进方式
 默认 Markdown 文档直接生成的 Html ，可直接使用 github-markdown-body.css
+
+加入代码高亮效果。
+```
+<link href="http://cdn.bootcss.com/highlight.js/8.0/styles/monokai_sublime.min.css" rel="stylesheet">  
+<script src="http://cdn.bootcss.com/highlight.js/8.0/highlight.min.js"></script>  
+<script >hljs.initHighlightingOnLoad();</script>  
+```
 # github-markdown-css
 
 > The minimal amount of CSS to replicate the GitHub Markdown style
